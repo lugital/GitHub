@@ -1,0 +1,1 @@
+<%@ Page Language="VB" ValidateRequest="false" AutoEventWireup="false" aspcompat="true" CodeFile="default.aspx.vb" Inherits="_default" %>
